@@ -1,0 +1,7 @@
+build/
+
+.gradle/
+.idea/
+
+kotlin-js-store/
+node_modules/
